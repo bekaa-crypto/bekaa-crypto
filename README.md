@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Eyoab! 👋
 
-<!--
-**bekaa-crypto/bekaa-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 About Me
+- Frontend developer: HTML, SCSS, JavaScript, React  
+- Learning backend with Node.js and Express  
+- Passionate about blockchain & cybersecurity  
+- I also have projects on my previous GitHub account: [beka88888](https://github.com/beka88888)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Frontend:** HTML, CSS/SCSS, JavaScript, React  
+- **Backend:** Node.js, Express (learning)  
+- **Tools:** Git, GitHub, VSCode, Firebase  
+
+---
+
+### 📂 Featured Projects
+
+#### React & Frontend
+- **React E-commerce App** ([react-2](https://github.com/bekaa-crypto/react-2))  
+- **Portfolio Website** ([portfolio](https://github.com/bekaa-crypto/portfolio))  
+
+#### Other Notable Work (from previous account)
+- Projects archived from [beka88888](https://github.com/beka88888)  
+
+#### Backend / Learning Projects
+- Node.js REST APIs (in progress)  
+- Authentication & CRUD systems (in progress)  
+
+---
+
+### ⚡ Fun Facts
+- Love building **interactive UIs** with React  
+- Always learning **new backend and security skills**  
+- Exploring blockchain and decentralized applications  
+
+---
+
+### 📫 Contact Me
+- GitHub: [bekaa-crypto](https://github.com/bekaa-crypto)  
+- Email: your-email@example.com (replace with yours)  
+- LinkedIn: [Your LinkedIn](#)
