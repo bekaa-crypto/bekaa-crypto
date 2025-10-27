@@ -1,8 +1,8 @@
-# Hi, I'm Eyoab! 👋
+# Hi, I'm Bereket Libona! 👋
 
 ### 🔹 About Me
 - Frontend developer: HTML, SCSS, JavaScript, React  
-- Learning backend with Node.js and Express  
+- Currently learning backend with Node.js and Express  
 - Passionate about blockchain & cybersecurity  
 - I also have projects on my previous GitHub account: [beka88888](https://github.com/beka88888)
 
@@ -12,6 +12,14 @@
 - **Frontend:** HTML, CSS/SCSS, JavaScript, React  
 - **Backend:** Node.js, Express (learning)  
 - **Tools:** Git, GitHub, VSCode, Firebase  
+
+---
+
+### 📚 Learning Journey
+- **Frontend** — 5 Million Coders Professional Training (Ethiopia)  
+- **HTML, CSS, JS, SCSS** — Self-practice projects  
+- **React** — Zero to Mastery React Course (completed)  
+- **Node.js & Express** — Zero to Mastery Node.js Course (currently learning)  
 
 ---
 
