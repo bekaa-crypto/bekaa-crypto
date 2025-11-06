@@ -41,11 +41,15 @@
 ### ⚡ Fun Facts
 - Love building **interactive UIs** with React  
 - Always learning **new backend and security skills**  
-- Exploring blockchain and decentralized applications  
+- Exploring blockchain and decentralized applications
+- 
 
 ---
 
-### 📫 Contact Me
-- GitHub: [bekaa-crypto](https://github.com/bekaa-crypto)  
-- Email: your-email@example.com (replace with yours)  
-- LinkedIn: [Your LinkedIn](#)
+📫 Contact Me
+
+GitHub: bekaa-crypto
+
+Email: bekaa.dev@gmail.com
+
+LinkedIn: Bereket L
