@@ -1,8 +1,8 @@
 # Hi, I'm Bereket Libona! 👋
 
-**Frontend Developer | React | JavaScript**  
-**Full-Stack Developer (Node.js)**  
-**Blockchain & Cybersecurity Enthusiast**
+Full-Stack Developer | React | Node.js | Express | GraphQL | MongoDB | AWS | Cloudflare  
+Blockchain & Cybersecurity Enthusiast  
+*…just a tech 😎*
 
 ---
 
