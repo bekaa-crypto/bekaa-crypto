@@ -1,47 +1,63 @@
 # Hi, I'm Bereket Libona! 👋
 
-### 🔹 About Me
-- Frontend developer: HTML, SCSS, JavaScript, React  
-- Currently learning backend with Node.js and Express  
-- Passionate about blockchain & cybersecurity  
-- I also have projects on my previous GitHub account: [beka88888](https://github.com/beka88888)
+**Frontend Developer | React | JavaScript**  
+**Full-Stack Developer (Node.js)**  
+**Blockchain & Cybersecurity Enthusiast**
 
 ---
 
-### 💻 Tech Stack
-- **Frontend:** HTML, CSS/SCSS, JavaScript, React  
-- **Backend:** Node.js, Express (learning)  
-- **Tools:** Git, GitHub, VSCode, Firebase  
+## 🔹 About Me
+💻 Frontend developer skilled in **HTML, SCSS, JavaScript, and React**  
+🟩 Built **Node.js & Express APIs**, including authentication and backend systems  
+🧩 Working with **GraphQL** (Apollo Server, queries & mutations)  
+🗄️ Experience with **SQL & NoSQL databases** (PostgreSQL, MongoDB)  
+🔐 Interested in **cybersecurity** and secure coding best practices  
+⛓️ Exploring **blockchain development** and smart contracts  
+
+📦 Older projects available on my previous GitHub account: [beka88888](https://github.com/beka88888)
 
 ---
 
-### 📚 Learning Journey
-- **Frontend** — 5 Million Coders Professional Training (Ethiopia)  
-- **HTML, CSS, JS, SCSS** — Self-practice projects  
-- **React** — Zero to Mastery React Course (completed)  
-- **Node.js & Express** — Zero to Mastery Node.js Course (currently learning)  
+## 💻 Tech Stack
+
+**Frontend:** HTML • CSS/SCSS • JavaScript (ES6+) • React  
+**Backend:** Node.js • Express • REST APIs • GraphQL (Apollo)  
+**Databases:** SQL (PostgreSQL/MySQL basics) • NoSQL (MongoDB)  
+**Tools & Platforms:** Git • GitHub • VS Code • Firebase • Supabase  
 
 ---
 
-### 📂 Featured Projects
-
-#### React & Frontend
-- **React E-commerce App** ([react-2](https://github.com/bekaa-crypto/react-2))  
-- **Portfolio Website** ([portfolio](https://github.com/bekaa-crypto/portfolio))  
-
-#### Other Notable Work (from previous account)
-- Projects archived from [beka88888](https://github.com/beka88888)  
-
-#### Backend / Learning Projects
-- Node.js REST APIs (in progress)  
-- Authentication & CRUD systems (in progress)  
+## 📚 Learning Journey
+⭐ 5 Million Coders (Ethiopia) — Frontend Professional Training  
+⚛️ Completed **Zero to Mastery React Course**  
+🟩 Completed **Zero to Mastery Node.js Course**  
+🔐 Learning **web security & OWASP basics**  
+⛓️ Exploring **Solidity & Web3 development**  
 
 ---
-📫 Contact Me
 
-GitHub: bekaa-crypto
+## 📂 Featured Projects
 
-Email: bekaa.dev@gmail.com
+### 🔵 React & Frontend
+- **React E-commerce App** – Authentication, database integration, real-time updates  
+- **Portfolio Website** – Responsive design, clean UI  
 
-LinkedIn: www.linkedin.com/in/bereket-l-9576602a5
+### 🟡 Backend
+- **Node.js REST APIs** – Modular architecture  
+- **GraphQL APIs** – Schema design, resolvers, Apollo Server  
+- **Auth & CRUD Systems** – JWT, sessions, secure login flows  
 
+### 📁 Other Notable Work
+- Archived projects from [beka88888](https://github.com/beka88888)  
+
+---
+
+## 📫 Contact Me
+📧 Email: bekaa.dev@gmail.com  
+💼 LinkedIn: [Bereket Libona](https://www.linkedin.com/in/bereket-l-9576602a5)  
+🐙 GitHub: [bekaa-crypto](https://github.com/bekaa-crypto)  
+
+---
+
+Thanks for visiting my profile! 🚀  
+*Always learning. Always building.*
